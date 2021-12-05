@@ -1,0 +1,45 @@
+[1;31m
+Start test 1[0m
+"Hello! My name is JetBrains Aid.
+I was created in 2021.
+Please, remind me your name.
+> Marry
+$What a great name you have, Marry!
+Let me guess your age.
+6Enter remainders of dividing your age by 3, 5 and 7.
+> 1
+> 0
+> 5
+:Your age is 40; that's a good time to start programming!
+BNow I will prove to you that I can count to any number you want.
+> 10
+0!
+1!
+2!
+3!
+4!
+5!
+6!
+7!
+8!
+9!
+10!
+(Let's test your programming knowledge.
+(Let's test your programming knowledge.
+:What is not a main driving point for Kotlin development?
+1. Kotlin is Declarative
+    2. Kotlin is Robust
+    3. Kotlin is Safe
+    4. Kotlin is Readable
+    5. Kotlin complies faster
+> 1
+Please, try again.
+> 2
+Please, try again.
+> 3
+Please, try again.
+> 4
+Please, try again.
+> 5
+#Congratulations, have a nice day!
+#Congratulations, have a nice day!
